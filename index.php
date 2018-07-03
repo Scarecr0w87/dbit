@@ -142,6 +142,7 @@
 			<div class="col-md-8">
 				
 				<!--/ Introduction Panel -->
+				<!--/ my horse is amazing -->
 				<div class="panel panel-primary">
 					<div class="panel-heading">
 						<h3 class="panel-title">DBIT > Home ...</h3>
