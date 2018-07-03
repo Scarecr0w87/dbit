@@ -147,7 +147,7 @@
 						<h3 class="panel-title">DBIT > Home ...</h3>
 					</div>
 					<div class="panel-body">
-						<p>Greetings! Thanks for taking the time to come and have a look at us! Here at DBIT Systems, we want nothing more than to serve our customers with what we do best!</p>
+						<p>Greetings!!! Thanks for taking the time to come and have a look at us! Here at DBIT Systems, we want nothing more than to serve our customers with what we do best!</p>
 						<p>Our primary goal is to provide the systems your business or company needs in order to transform those pesky, manually run processes into an automated experience, giving your staff more time to focus on what's important.</p>
 					</div>
 				</div>
