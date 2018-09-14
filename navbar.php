@@ -3,6 +3,8 @@
 	if(!defined("ACTIVE")){
 		die(header("Location: index.php"));
 	}
+
+and this shit too.
 ?>
 <!--/ Navigation -->
 <nav class="navbar navbar-inverse navbar-fixed-top">
