@@ -7,7 +7,7 @@
 	$modalTitle  = '';
 	$modalMessage  = '';
 	
-	
+	fuck this shit
 	# reCAPTCHA Check
 	function reCAPTCHA(){
 		$secret = "6LeTkA8TAAAAAJjB-lme8rTarzB-7cWidqUtC9XZ";
